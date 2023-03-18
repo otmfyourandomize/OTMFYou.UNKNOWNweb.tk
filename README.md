@@ -20,8 +20,8 @@
 <details><summary><h3>How to use</h3></summary>
 
 There are 3 good methods to using these scripts:
-1. Importing the BlooketCODE.html file using [these instructions](https://github.com/otmfyourandomize/otmfyourandomize.github.io)
-2. Going to the [GitHub pages site](https://otmfyourandomize.github.io/), choosing a gamemode, then dragging a cheat to your bookmarks bar or clicking one to copy the script
+1. Importing the BlooketCODE.html file using [these instructions](https://github.com/otmfyourandomize/otmfyourandomize.github.io/tree/main/Tutorial)
+2. Going to the [GitHub pages site](https://otmfyourandomize.github.io/), choosing a gamemode, then dragging a cheat to your bookmarks bar or clicking one to copy the script (###Still not done)
 3. Copying a script and running it in the inspect element console
 </details>
 
