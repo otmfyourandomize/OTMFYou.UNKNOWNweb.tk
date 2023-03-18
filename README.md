@@ -1,7 +1,8 @@
-# otmfyourandomize.github.io
-Copyrighted CODE Edited | OTMFYou + (OTHERS)
+<h4 align="center">otmfyourandomize.github.io</h4>
 
-<p align="center">Cheats made by someone who knows more about what they're doing()</p>
+<p align="center">#### Copyrighted CODE Edited | OTMFYou + (OTHERS)####</p>
+
+<p align="center">Cheats made by someone who knows more about what they're doing</p>
 <h2 align="center">Check out the <a href="https://github.com/otmfyourandomize">content branch</a> for more cheats</h2>
 <h3 align="center"><a href="https://discord.gg/qeyp2WN8QJ">Support Server</a></h2>
 
