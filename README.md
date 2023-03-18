@@ -32,11 +32,6 @@ There are 3 good methods to using these scripts:
 Make sure you're running it properly (see [How to use](https://github.com/otmfyourandomize)), if it still doesn't work and other cheats do, then [make an issue](https://github.com/otmfyourandomize/otmfyourandomize.github.io)
 </details>
 
-<details><summary><h3>Can you give me infinite tokens / bypass daily limit / permanently give me blooks / change pack luck?</h3></summary>
-
-No, these are things we would've already done if they were possible, they're managed on the backend of Blooket so we can't modify them
-</details>
-
 
 <details><summary><h2>List of Cheats</h2></summary>
 
