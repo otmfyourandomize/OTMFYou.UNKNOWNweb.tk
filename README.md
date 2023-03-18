@@ -20,7 +20,7 @@
 <details><summary><h3>How to use</h3></summary>
 
 There are 3 good methods to using these scripts:
-1. Importing the BlooketCODE.html file using [these instructions](https://github.com/otmmfyou/PUT-IN)
+1. Importing the BlooketCODE.html file using [these instructions](https://github.com/otmfyourandomize/otmfyourandomize.github.io)
 2. Going to the [GitHub pages site](https://otmfyourandomize.github.io/), choosing a gamemode, then dragging a cheat to your bookmarks bar or clicking one to copy the script
 3. Copying a script and running it in the inspect element console
 </details>
@@ -29,8 +29,7 @@ There are 3 good methods to using these scripts:
 
 <details><summary><h3>(script) is not working?</h3></summary>
 
-Make sure you're running it properly (see [How to use]( 
-     EDIT  https://github.com/Minesraft2/Blooket-Cheats#how-to-use)), if it still doesn't work and other cheats do, then [make an issue](  EDIT  https://github.com/Minesraft2/Blooket-Cheats/issues)
+Make sure you're running it properly (see [How to use](https://github.com/otmfyourandomize)), if it still doesn't work and other cheats do, then [make an issue](https://github.com/otmfyourandomize/otmfyourandomize.github.io)
 </details>
 
 <details><summary><h3>Can you give me infinite tokens / bypass daily limit / permanently give me blooks / change pack luck?</h3></summary>
