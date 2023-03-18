@@ -2,7 +2,7 @@
 Copyrighted CODE Edited | OTMFYou + (OTHERS)
 
 <p align="center">Cheats made by someone who knows more about what they're doing()</p>
-<h2 align="center">Check out the <a href="https://github.com/otmfyou/">content branch</a> for more cheats</h2>
+<h2 align="center">Check out the <a href="https://github.com/otmfyourandomize">content branch</a> for more cheats</h2>
 <h3 align="center"><a href="https://discord.gg/qeyp2WN8QJ">Support Server</a></h2>
 <h3 align="center"><a href="tutorial/readme.md">Instructions for importing bookmarklets</a></h2>
 
