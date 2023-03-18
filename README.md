@@ -4,7 +4,6 @@ Copyrighted CODE Edited | OTMFYou + (OTHERS)
 <p align="center">Cheats made by someone who knows more about what they're doing()</p>
 <h2 align="center">Check out the <a href="https://github.com/otmfyourandomize">content branch</a> for more cheats</h2>
 <h3 align="center"><a href="https://discord.gg/qeyp2WN8QJ">Support Server</a></h2>
-<h3 align="center"><a href="tutorial/readme.md">Instructions for importing bookmarklets</a></h2>
 
 # Vision Board
 
@@ -21,14 +20,11 @@ Copyrighted CODE Edited | OTMFYou + (OTHERS)
 
 There are 3 good methods to using these scripts:
 1. Importing the BlooketCODE.html file using [these instructions](https://github.com/otmmfyou/PUT-IN)
-2. Going to the [GitHub pages site](  EDIT  https://minesraft2.github.io/Blooket-Cheats), choosing a gamemode, then dragging a cheat to your bookmarks bar or clicking one to copy the script
+2. Going to the [GitHub pages site](https://otmfyourandomize.github.io/), choosing a gamemode, then dragging a cheat to your bookmarks bar or clicking one to copy the script
 3. Copying a script and running it in the inspect element console
 </details>
 
-<details><summary><h3>What can I do if JavaScript is blocked?</h3></summary>
 
-We don't actually know what to do about this or how to fix it, sorry.
-</details>
 
 <details><summary><h3>(script) is not working?</h3></summary>
 
