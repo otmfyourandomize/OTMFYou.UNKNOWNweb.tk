@@ -12,22 +12,6 @@
 <h3 align="center"><a href="https://discord.gg/qeyp2WN8QJ">Support Server</a></h2>
 
 
-# Vision Board
-
-
-- [ ] Auto Play
-
-- [ ] GUI ingame chat for cheaters???
-
-- [ ] More Racing cheats
-
-- [x] GUI Game Events tab
-
-- [x] GUI scroll wheel to get rid of global 2
-
-- [x] GUI Color Customizations tab
-
-
 ## Information
 
 
