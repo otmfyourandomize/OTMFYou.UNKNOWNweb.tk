@@ -41,11 +41,11 @@
 
 <details><summary><h2>List of Cheats</h2></summary>
 
-  * [Discord](BlooketCODE.html), 
+  * [Discord](BlooketJS.js), 
   
   * [GUI](BlooketJS.js), 
 
-  ### [Monster Brawl](brawl), 
+  ### [Monster Brawl](BlooketJS.js), 
 
   * [Double Enemy XP](BlooketCODE.html), 
 
@@ -67,7 +67,7 @@
 
   * [Reset Health](BlooketCODE.html), 
 
-  ### [Cafe](cafe), 
+  ### [Cafe](BlooketJS.js), 
 
   * [Max Items](BlooketCODE.html), 
 
@@ -79,211 +79,201 @@
 
   * [Stock Food](BlooketCODE.html), 
 
-  ### [Crypto Hack](crypto), 
+  ### [Crypto Hack](BlooketJS.js), 
 
-  * [Always Triple](unobfuscated/crypto/alwaysTriple.js), 
+  * [Always Triple](BlooketCODE.html), 
 
-  * [Auto Guess](unobfuscated/crypto/autoGuess.js), 
+  * [Auto Guess](BlooketCODE.html), 
 
-  * [Choice ESP](unobfuscated/crypto/choiceESP.js), 
+  * [Choice ESP](BlooketCODE.html), 
 
-  * [Password ESP](unobfuscated/crypto/passwordESP.js), 
+  * [Password ESP](BlooketCODE.html), 
 
-  * [Remove Hack](unobfuscated/crypto/removeHack.js), 
+  * [Remove Hack](BlooketCODE.html), 
 
-  * [Set Crypto](unobfuscated/crypto/setCrypto.js), 
+  * [Set Crypto](BlooketCODE.html), 
 
-  * [Set Password](unobfuscated/crypto/setPassword.js), 
+  * [Set Password](BlooketCODE.html), 
 
-  * [Steal Players Crypto](unobfuscated/crypto/stealPlayersCrypto.js), 
+  * [Steal Players Crypto](BlooketCODE.html), 
 
-  ### [Deceptive Dinos](unobfuscated/dinos), 
+  ### [Deceptive Dinos](BlooketJS.js), 
 
-  * [Auto Choose](unobfuscated/dinos/autoChoose.js), 
+  * [Auto Choose](BlooketCODE.html), 
 
-  * [Rock ESP](unobfuscated/dinos/rockESP.js), 
+  * [Rock ESP](BlooketCODE.html), 
 
-  * [Set Fossils](unobfuscated/dinos/setFossils.js), 
+  * [Set Fossils](BlooketCODE.html), 
 
-  * [Set Multiplier](unobfuscated/dinos/setMultiplier.js), 
+  * [Set Multiplier](BlooketCODE.html), 
 
-  * [Stop Cheating](unobfuscated/dinos/stopCheating.js), 
+  * [Stop Cheating](BlooketCODE.html), 
 
-  ### [Tower of Doom](unobfuscated/doom), 
+  ### [Tower of Doom](BlooketJS.js), 
 
-  * [Fill Deck](unobfuscated/doom/fillDeck.js), 
+  * [Fill Deck](BlooketCODE.html), 
 
-  * [Max Cards](unobfuscated/doom/maxCards.js), 
+  * [Max Cards](BlooketCODE.html), 
 
-  * [Max Health](unobfuscated/doom/maxHealth.js), 
+  * [Max Health](BlooketCODE.html), 
 
-  * [Max Stats](unobfuscated/doom/maxStats.js), 
+  * [Max Stats](BlooketCODE.html), 
 
-  * [Min Enemy](unobfuscated/doom/minEnemy.js), 
+  * [Min Enemy](BlooketCODE.html), 
 
-  * [Set Coins](unobfuscated/doom/setCoins.js), 
+  * [Set Coins](BlooketCODE.html), 
 
-  ### [Factory](unobfuscated/factory), 
+  ### [Factory](BlooketJS.js), 
 
-  * [Choose Blook](unobfuscated/factory/chooseBlook.js), 
+  * [Choose Blook](BlooketCODE.html), 
 
-  * [Free Upgrades](unobfuscated/factory/freeUpgrades.js), 
+  * [Free Upgrades](BlooketCODE.html), 
 
-  * [Max Blooks](unobfuscated/factory/maxBlooks.js), 
+  * [Max Blooks](BlooketCODE.html), 
 
-  * [Remove Glitches](unobfuscated/factory/removeGlitches.js), 
+  * [Remove Glitches](BlooketCODE.html), 
 
-  * [Send Glitch](unobfuscated/factory/sendGlitch.js), 
+  * [Send Glitch](BlooketCODE.html), 
 
-  * [Set All Mega Bot](unobfuscated/factory/setAllMegaBot.js), 
+  * [Set All Mega Bot](BlooketCODE.html), 
 
-  * [Set Cash](unobfuscated/factory/setCash.js), 
+  * [Set Cash](BlooketCODE.html), 
 
-  ### [Fishing Frenzy](unobfuscated/fishing), 
+  ### [Fishing Frenzy](BlooketJS.js), 
 
-  * [Frenzy](unobfuscated/fishing/frenzy.js), 
+  * [Frenzy](BlooketCODE.html), 
 
-  * [Remove Distraction](unobfuscated/fishing/removeDistraction.js), 
+  * [Remove Distraction](BlooketCODE.html), 
 
-  * [Send Distraction](unobfuscated/fishing/sendDistraction.js), 
+  * [Send Distraction](BlooketCODE.html), 
 
-  * [Set Lure](unobfuscated/fishing/setLure.js), 
+  * [Set Lure](BlooketCODE.html), 
 
-  * [Set Weight](unobfuscated/fishing/setWeight.js), 
+  * [Set Weight](BlooketCODE.html), 
 
-  ### [Flappy Blook](unobfuscated/flappy), 
+  ### [Flappy Blook](BlooketJS.js), 
 
-  * [Set Score](unobfuscated/flappy/setScore.js), 
+  * [Set Score](BlooketCODE.html), 
 
-  * [Toggle Ghost](unobfuscated/flappy/toggleGhost.js), 
+  * [Toggle Ghost](BlooketCODE.html), 
 
-  ### [Global](unobfuscated/global), 
+  ### [Global](BlooketJS.js), 
 
-  * [Auto Answer](unobfuscated/global/autoAnswer.js), 
+  * [Auto Answer](BlooketCODE.html), 
 
-  * [Auto Sell Dupes On Open](unobfuscated/global/autoSellDupesOnOpen.js), 
+  * [Auto Sell Dupes On Open](BlooketCODE.html), 
 
-  * [Every Answer Correct](unobfuscated/global/everyAnswerCorrect.js), 
+  * [Every Answer Correct](BlooketCODE.html), 
 
-  * [Flood Game](unobfuscated/global/floodGame.js), 
+  * [Flood Game](BlooketCODE.html), 
 
-  * [Get Daily Rewards](unobfuscated/global/getDailyRewards.js), 
+  * [Get Daily Rewards](BlooketCODE.html), 
 
-  * [Highlight Answers](unobfuscated/global/highlightAnswers.js), 
+  * [Highlight Answers](BlooketCODE.html), 
 
-  * [Prevent Suspension](unobfuscated/global/preventSuspension.js), 
+  * [Prevent Suspension](BlooketCODE.html), 
 
-  * [Remove Random Name](unobfuscated/global/removeRandomName.js), 
+  * [Remove Random Name](BlooketCODE.html), 
 
-  * [Sell Cheap Duplicates](unobfuscated/global/sellCheapDuplicates.js), 
+  * [Sell Cheap Duplicates](BlooketCODE.html), 
 
-  * [Sell Duplicate Blooks](unobfuscated/global/sellDuplicateBlooks.js), 
+  * [Sell Duplicate Blooks](BlooketCODE.html), 
 
-  * [Simulate Pack](unobfuscated/global/simulatePack.js.js), 
+  * [Simulate Pack](BlooketCODE.html), 
 
-  * [Simulate Unlock](unobfuscated/global/simulateUnlock.js), 
+  * [Simulate Unlock](BlooketCODE.html), 
 
-  * [Spam Buy Blooks](unobfuscated/global/spamBuyBlooks.js), 
+  * [Spam Buy Blooks](BlooketCODE.html), 
 
-  * [Unlock Plus Gamemodes](unobfuscated/global/unlockPlusGamemodes.js), 
+  * [Unlock Plus Gamemodes](BlooketCODE.html), 
 
-  * [Use Any Blook](unobfuscated/global/useAnyBlook.js), 
+  * [Use Any Blook](BlooketCODE.html), 
 
-  #### [Intervals](unobfuscated/global/intervals), 
+  ### [Gold Quest](BlooketJS.js), 
 
-  * [Auto Answer](unobfuscated/global/intervals/autoAnswer.js), 
+  * [Always Triple](BlooketCODE.html), 
 
-  * [Highlight Answers](unobfuscated/global/intervals/highlightAnswers.js), 
+  * [Auto Choose](BlooketCODE.html), 
 
-  ### [Gold Quest](unobfuscated/gold), 
+  * [Chest ESP](BlooketCODE.html), 
 
-  * [Always Triple](unobfuscated/gold/alwaysTriple.js), 
+  * [Reset All Gold](BlooketCODE.html), 
 
-  * [Auto Choose](unobfuscated/gold/autoChoose.js), 
+  * [Reset Players Gold](BlooketCODE.html), 
 
-  * [Chest ESP](unobfuscated/gold/chestESP.js), 
+  * [Set Gold](BlooketCODE.html), 
 
-  * [Reset All Gold](unobfuscated/gold/resetAllGold.js), 
+  * [Swap Gold](BlooketCODE.html), 
 
-  * [Reset Players Gold](unobfuscated/gold/resetPlayersGold.js), 
+  ### [Crazy Kingdom](BlooketJS.js), 
 
-  * [Set Gold](unobfuscated/gold/setGold.js), 
+  * [Choice ESP](BlooketCODE.html), 
 
-  * [Swap Gold](unobfuscated/gold/swapGold.js), 
+  * [Choice ESP Loop](BlooketCODE.html), 
 
-  ### [Crazy Kingdom](unobfuscated/kingdom), 
+  * [Disable Toucan](BlooketCODE.html), 
 
-  * [Choice ESP](unobfuscated/kingdom/choiceESP.js), 
+  * [Max Stats](BlooketCODE.html), 
 
-  * [Choice ESP Loop](unobfuscated/kingdom/choiceESPLoop.js), 
+  * [Set Guests](BlooketCODE.html), 
 
-  * [Disable Toucan](unobfuscated/kingdom/disableToucan.js), 
+  * [Skip Guest](BlooketCODE.html), 
 
-  * [Max Stats](unobfuscated/kingdom/maxStats.js), 
+  ### [Racing](BlooketJS.js), 
 
-  * [Set Guests](unobfuscated/kingdom/setGuests.js), 
+  * [Instant Win](BlooketCODE.html), 
 
-  * [Skip Guest](unobfuscated/kingdom/skipGuest.js), 
+  ### [Battle Royale](BlooketJS.js), 
 
-  ### [Racing](unobfuscated/racing), 
+  * [Auto Answer](BlooketCODE.html), 
 
-  * [Instant Win](unobfuscated/racing/instantWin.js), 
+  ### [Blook Rush](BlooketJS.js), 
 
-  ### [Battle Royale](unobfuscated/royale), 
+  * [Set Blooks](BlooketCODE.html), 
 
-  * [Auto Answer](unobfuscated/royale/autoAnswer.js), 
+  * [Set Defense](BlooketCODE.html), 
 
-  #### [Intervals](unobfuscated/royale/intervals), 
+  ### [Tower Defense](BlooketJS.js), 
 
-  * [Auto Answer](unobfuscated/royale/intervals/autoAnswer.js), 
+  * [Earthquake](BlooketCODE.html), 
 
-  ### [Blook Rush](unobfuscated/rush), 
+  * [Max Towers](BlooketCODE.html), 
 
-  * [Set Blooks](unobfuscated/rush/setBlooks.js), 
+  * [Remove Ducks](BlooketCODE.html), 
 
-  * [Set Defense](unobfuscated/rush/setDefense.js), 
+  * [Remove Enemies](BlooketCODE.html), 
 
-  ### [Tower Defense](unobfuscated/tower-defense), 
+  * [Remove Obsticles](BlooketCODE.html), 
 
-  * [Earthquake](unobfuscated/tower-defense/earthquake.js), 
+  * [Set Damage](BlooketCODE.html), 
 
-  * [Max Towers](unobfuscated/tower-defense/maxTowers.js), 
+  * [Set Round](BlooketCODE.html), 
 
-  * [Remove Ducks](unobfuscated/tower-defense/removeDucks.js), 
+  * [Set Tokens](BlooketCODE.html), 
 
-  * [Remove Enemies](unobfuscated/tower-defense/removeEnemies.js), 
+  ### [Tower Defense 2](BlooketJS.js), 
 
-  * [Remove Obsticles](unobfuscated/tower-defense/removeObsticles.js), 
+  * [Max Towers](BlooketCODE.html), 
 
-  * [Set Damage](unobfuscated/tower-defense/setDmg.js), 
+  * [Remove Enemies](BlooketCODE.html), 
 
-  * [Set Round](unobfuscated/tower-defense/setRound.js), 
+  * [Set Coins](BlooketCODE.html), 
 
-  * [Set Tokens](unobfuscated/tower-defense/setTokens.js), 
+  * [Set Health](BlooketCODE.html), 
 
-  ### [Tower Defense 2](unobfuscated/tower-defense-2), 
+  * [Set Round](BlooketCODE.html), 
 
-  * [Max Towers](unobfuscated/tower-defense-2/maxTowers.js), 
+  ### [Santa's Workshop](BlooketJS.js), 
 
-  * [Remove Enemies](unobfuscated/tower-defense-2/removeEnemies.js), 
+  * [Remove Distractions](BlooketCODE.html), 
 
-  * [Set Coins](unobfuscated/tower-defense-2/setCoins.js), 
+  * [Send Distraction](BlooketCODE.html), 
 
-  * [Set Health](unobfuscated/tower-defense-2/setHealth.js), 
+  * [Set Toys](BlooketCODE.html), 
 
-  * [Set Round](unobfuscated/tower-defense-2/setRound.js), 
+  * [Set Toys Per Question](BlooketCODE.html), 
 
-  ### [Santa's Workshop](unobfuscated/workshop), 
-
-  * [Remove Distractions](unobfuscated/workshop/removeDistractions.js), 
-
-  * [Send Distraction](unobfuscated/workshop/sendDistraction.js), 
-
-  * [Set Toys](unobfuscated/workshop/setToys.js), 
-
-  * [Set Toys Per Question](unobfuscated/workshop/setToysPerQ.js), 
-
-  * [Swap Toys](unobfuscated/workshop/swapToys.js), 
+   * [Swap Toys](BlooketCODE.html), 
 
 </details>
 
