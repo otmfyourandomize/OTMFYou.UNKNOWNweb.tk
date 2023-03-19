@@ -59,8 +59,9 @@
 
 <details><summary><h2>List of Cheats</h2></summary>
 
-
-  * [GUI](BlooketGUI.js)
+  * [Discord](BlooketCODE.html)
+  
+  * [GUI](BlooketJS.js)
 
   ### [Monster Brawl](brawl)
 
