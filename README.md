@@ -44,38 +44,40 @@
   * [Discord](Code/BlooketJS.js), 
   
   * [GUI](Code/BlooketJS.js), 
-
+  
+  ### [Global](Code/BlooketJS.js), 
+  
   ### [Monster Brawl](Code/BlooketJS.js), 
-
-  ### [Cafe](Code/BlooketJS.js), 
-
+  
   ### [Crypto Hack](Code/BlooketJS.js), 
-
+  
+  ### [Factory](Code/BlooketJS.js), 
+  
+  ### [Tower Defense](Code/BlooketJS.js), 
+  
+  ### [Tower Defense 2](Code/BlooketJS.js), 
+  
+  ### [Fishing Frenzy](Code/BlooketJS.js), 
+  
+  ### [Crazy Kingdom](Code/BlooketJS.js), 
+  
+  ### [Flappy Blook](Code/BlooketJS.js), 
+  
+  ### [Battle Royale](Code/BlooketJS.js), 
+  
   ### [Deceptive Dinos](Code/BlooketJS.js), 
+  
+  ### [Cafe](Code/BlooketJS.js), 
 
   ### [Tower of Doom](Code/BlooketJS.js), 
 
-  ### [Factory](Code/BlooketJS.js), 
-
-  ### [Fishing Frenzy](Code/BlooketJS.js), 
-
-  ### [Flappy Blook](Code/BlooketJS.js), 
-
-  ### [Global](Code/BlooketJS.js), 
-
   ### [Gold Quest](Code/BlooketJS.js), 
-
-  ### [Crazy Kingdom](Code/BlooketJS.js), 
 
   ### [Racing](Code/BlooketJS.js), 
 
   ### [Battle Royale](Code/BlooketJS.js), 
 
   ### [Blook Rush](Code/BlooketJS.js), 
-
-  ### [Tower Defense](Code/BlooketJS.js), 
-
-  ### [Tower Defense 2](Code/BlooketJS.js), 
 
   ### [Santa's Workshop](Code/BlooketJS.js), 
 
