@@ -79,7 +79,7 @@
 
   ### [Blook Rush](Code/BlooketJS.js), 
 
-  ### [Santa's Workshop](Code/BlooketJS.js), 
+  ### [Santa's Workshop](Code/BlooketJS.js).
 
 </details>
 
