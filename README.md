@@ -18,12 +18,12 @@
 
   There are 3 good methods to using these scripts:
 
-  1. Importing the BlooketCODE.html file using [these instructions](https://github.com/otmfyourandomize/otmfyourandomize.github.io/tree/main/Tutorial)
+  1. Importing the BlooketCODE.html file, You can check tutorial folder to get it in.
 
-  2. Going to the [GitHub pages site](https://otmfyourandomize.github.io/), choosing a gamemode, then dragging a cheat to your bookmarks bar or clicking 
-  one to copy the script (###STILL$not$DONE###)
+  2. Going to the otmfyourandomize.github.io, choosing a gamemode, then dragging a cheat to your bookmarks bar or clicking 
+  one to copy the script ###STILL not DONE###
 
-  3. Copying a script and running it in the inspect element console
+  3. Copying a script and running it in the inspect element console ###IF you HAVE developer MODE###
 
 </details>
 
