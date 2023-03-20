@@ -1,9 +1,0 @@
-hold ctrl+shift and press O
-bookmark the tab and edited it
-rename the bookmark to "Global/AddSettings"
-save and Exit
-copy all code from "BlooketCODE.html"
-edit the bookmarked tab. again
-paste all the copyed code in URL: section.
-Save and Exit
-(PHOTOS WILL BE AVAILABLE SOON ON HOW TO)
